@@ -1,2 +1,2 @@
-server:
-  config:54321
+config:
+  test:54321
